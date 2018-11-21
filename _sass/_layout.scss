@@ -19,7 +19,7 @@ body {
 header {
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: calc(50% - 40px) 175px;
+	background-position: center;
 	height: 420px;
 	box-sizing: border-box;
 
@@ -29,11 +29,11 @@ header {
 
 	@media (min-width: $mobile-break) {
 		background-size: contain;
-		background-position: calc(50% - 300px) calc(100% + 20px);
+		background-position: center;
 
 		&.main-hero {
 			height: 80vh;
-			background-position: calc(50% - 350px) calc(100% + 20px);
+			background-position: center;
 		}
 
 		.container {
