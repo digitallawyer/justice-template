@@ -28,7 +28,7 @@ header {
 	}
 
 	@media (min-width: $mobile-break) {
-		background-size: contain;
+		background-size: cover;
 		background-position: center;
 
 		&.main-hero {
