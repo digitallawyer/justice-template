@@ -6,25 +6,21 @@
       link: /about/
     - name: Services
       link: /services/
-    - name: Contact
-      link: /contact/
-    - name: Advice
+    # - name: Contact
+    #   link: /contact/
+    - name: Blog
       link: /advice/
-- title: Social
+- title: Contact
   links:
-    - name: Facebook
+    - name: Send Message
+      link: /contact
+      social_icon: 
+      new_window: false
+    - name: info@redfieldIP.com
       link:
-      social_icon: Facebook
+      social_icon:
       new_window: true
-    - name: Twitter
+    - name: (650) 814 3775
       link:
-      social_icon: Twitter
-      new_window: true
-    - name: Google+
-      link:
-      social_icon: Google Plus
-      new_window: true
-    - name: LinkedIn
-      link:
-      social_icon: LinkedIn
+      social_icon: 
       new_window: true
